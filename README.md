@@ -7,7 +7,11 @@
 
 > Un simulador de estacionamiento autónomo impulsado por Q-Learning y física cinemática.
 
-![Demo Placeholder](https://via.placeholder.com/800x400?text=Insertar+GIF+o+Captura+del+Simulador+Aqui)
+<div align="center">
+  <img src="demo/demo2.png" alt="Demo Placeholder" width="20%" style="margin-right: 10px;">
+  <img src="demo/demo1.png" alt="Demo Placeholder" width="20%" style="margin-left: 10px;">
+  <img src="demo/demo3.png" alt="Demo Placeholder" width="20%" style="margin-left: 10px;">
+</div>
 
 ## Descripción
 
@@ -29,8 +33,8 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/parking-simulator.git
-    cd parking-simulator
+    git clone https://github.com/brandsrx/parking_simulator.git
+    cd parking_simulator
     ```
 
 2.  **Crear un entorno virtual (Opcional pero recomendado):**
